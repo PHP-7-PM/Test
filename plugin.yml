@@ -1,9 +1,9 @@
 ---
 name: WorldEditArt
 author: PEMapModder
-version: 1.0.0_beta_dev_#048
+version: 1.0#CyroEDIT
 api:
-- 1.0.0
+- 2.0.0
 load: POSTWORLD
 main: pemapmodder\worldeditart\WorldEditArt
 description: A powerful advanced world editor
